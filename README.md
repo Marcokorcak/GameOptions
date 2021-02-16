@@ -13,12 +13,8 @@ This code is writtten in c++ and it is a assignment that I decided to make on my
 - [X] 5. Guessing Game
 
 ### Game Descriptions
-- [X] 1. Mad-Libs 
-       this
-- [X] 2. User can tap a button to change the text string of the label.
-- [X] 3. User can tap on the background view to reset all views to default settings.
-- [X] 4. User can update the label text with custom text entered into the text field.
-   - [X] a. User can enter text into a text field using the keyboard.
-   - [X] b. User can tap the "Change text string" button to update the label with the text from the text field.
-   - [X] c. If the text field is empty, update label with default text string.
-   - [X] d. The keyboard is dismissed after the button has been tapped.
+-  1. Mad-Libs is a game when the user inputs verbs, nouns, or pornouns into the gven senteces produced and a finally story is produced by putting everything together.
+-  2. Treasure Finder is a game that tracks the users coordinates and tell them how far they are from finding the treasure and in which direction. The game allows the user to try different directions and different amount of steps in each direction as well as saying how many attemots were taken to find the treasure. 
+-  3. Psyhcich is a game that utilizes randomness to produce a prediction about either a persons love life, education or personal life. The suer is allowed to chose what aspects of theri life they would like to get a prediction about. 
+-  4. The Adventure game is a game where the user is given options as to where they could go on an adventure and each different path they take wil lead them somehwere else. The user is given full control in being able to decide where they want to go and what actions they want to take such as stay on the subway of getting off at a certain stop.
+ - 5. The Guessing game is a game where the users tries to guess a number in a certain interval until they get it right. The number is contsantly randomized and the number of attempts the user has is tracked. 
