@@ -13,7 +13,8 @@ This code is writtten in c++ and it is a assignment that I decided to make on my
 - [X] 5. Guessing Game
 
 ### Game Descriptions
-- [X] 1. User can tap a button to change the color of the background view.
+- [X] 1. Mad-Libs 
+       this
 - [X] 2. User can tap a button to change the text string of the label.
 - [X] 3. User can tap on the background view to reset all views to default settings.
 - [X] 4. User can update the label text with custom text entered into the text field.
