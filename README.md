@@ -6,9 +6,9 @@ This code is writtten in c++ and it is a assignment that I decided to make on my
 
 
 ### Featured Games
-- [X] 1. User sees custom text in a label - Hello from {name}!
-- [X] 2. User see's custom background color.
-- [X] 3. User can tap a button to change the text color of the label.
+- [X] 1. Mad-Libs
+- [X] 2. Treasure Finder
+- [X] 3. Psychic
 
 ### Optional User Stories
 - [X] 1. User can tap a button to change the color of the background view.
